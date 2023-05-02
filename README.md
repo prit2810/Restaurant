@@ -1,3 +1,4 @@
+Restaurant
 # Restaurant
 # Restaurant
 
@@ -9,17 +10,12 @@
  <img width=500px height=200px src="Restaurant.jpg" alt="Project logo"></a>
 </p>
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="Admin.jpg" alt="Project logo"></a>
-</p>
-
 
 <h3 align="center">Restaurant</h3>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">
     <br> 
 </p>
 
@@ -29,6 +25,7 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Flow Chart](#flowchart)
+- [SnapShots](#Snapshots)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -247,6 +244,34 @@ That's it! You have successfully set the JDK version to 1.8 in Eclipse. Now you 
 - [Java,jsp,servlet] - Back-end
 - [MySql](https://www.mysql.com/) - Database
 - [Tomcat](https://tomcat.apache.org/) - localhost Server 
+
+
+## Snapshots <a name = "Snapshots"></a>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="Register.jpg" alt=""></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="1.jpg" alt=""></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="2.jpg" alt=""></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="3.jpg" alt=""></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="4.jpg" alt=""></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="5.jpg" alt=""></a>
+</p>
+
 
 
 ## ✍️ Authors <a name = "authors"></a>
